@@ -1,4 +1,4 @@
-# AtliQo Bank Hypothesis Testing Project
+# AtliQo Bank Credit Card Hypothesis Testing Project
 
 ## Description
 This project conducts an A/B testing analysis for AtliQo Bank to evaluate the impact of a specific intervention (e.g., a new product, promotion, or UI change) on customer transaction behavior. Built using Python, the project employs statistical techniques to compare average transaction amounts between a test group and a control group, utilizing z-tests and confidence intervals to determine statistical significance. Visualizations with Seaborn and Matplotlib provide insights into transaction patterns. The project aligns with data science practices for hypothesis testing, suitable for informing business decisions in the banking sector.
@@ -10,7 +10,6 @@ This project conducts an A/B testing analysis for AtliQo Bank to evaluate the im
 - [Features](#features)
 - [Analysis Details](#analysis-details)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -116,13 +115,6 @@ Contributions are welcome! To contribute:
 
 Please follow PEP 8 standards and include tests for new features.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or feedback, reach out to:
-- Your Name: your.email@example.com
-- GitHub: [your-username](https://github.com/your-username)
-- Project Link: [https://github.com/your-username/atliqo-bank-hypothesis-testing](https://github.com/your-username/atliqo-bank-hypothesis-testing)
-
-*Project from Codebasics ML Course. All rights reserved: Codebasics.io*
+- Mail ID: kavineshdhanush@gmail.com
